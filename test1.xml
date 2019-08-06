@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Notifications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Notification>
+		<Id>1</Id>
+		<Subject>Subject 1</Subject>
+		<Recipient>Manager, HR BP</Recipient>
+		<Body>Elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. </Body>
+		<Trigger>Action</Trigger>
+	</Notification>
+	<Notification>
+		<Id>3</Id>
+		<Subject>Subject 2</Subject>
+		<Recipient>Employee</Recipient>
+		<Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</Body>
+		<Trigger>Complete</Trigger>
+	</Notification>
+	<Notification>
+		<Id>2</Id>
+		<Subject>Subject 3</Subject>
+		<Recipient>Manager, HR BP</Recipient>
+		<Body>Vestibulum morbi blandit cursus risus at ultrices mi. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Aliquam ut porttitor leo a diam sollicitudin tempor. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Volutpat odio facilisis mauris sit amet massa.</Body>
+		<Trigger>Complete</Trigger>
+	</Notification>
+	<Notification>
+		<Id>4</Id>
+		<Subject>Subject 4</Subject>
+		<Recipient> HR BP</Recipient>
+		<Body>Maecenas accumsan lacus vel facilisis volutpat est velit egestas. Sit amet risus nullam eget felis eget nunc lobortis.</Body>
+		<Trigger>Complete</Trigger>
+	</Notification>
+</Notifications>
