@@ -1,4 +1,0 @@
-This is a version one file.
-There will be no 
-version two [edited].
-This line was added.
